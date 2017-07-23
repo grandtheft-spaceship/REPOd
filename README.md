@@ -5,7 +5,7 @@ REPOd is a centralized, searchable database of resources with tags that can be l
 
 ## Try it Out
 
-(REPod On Heroku!)[http://repod.herokuapp.com/posts]
+[REPod On Heroku!](http://repod.herokuapp.com/posts)
 
 username: maxwell.mathews@devbootcamp.com
 password: password

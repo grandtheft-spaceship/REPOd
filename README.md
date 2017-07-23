@@ -1,13 +1,21 @@
 # REPOd
 
+
 REPOd is a centralized, searchable database of resources with tags that can be linked to so that students can search and browse for relevant resources. It would allow students to sign in, search and browse resources, and teachers would be able to save resources as well.
+
+## Try it Out
+
+(REPod On Heroku!)[http://repod.herokuapp.com/posts]
+
+username: maxwell.mathews@devbootcamp.com
+password: password
 
 ## Team Members:
 * Frank Sommers
 * Justin Dizon
 * Tere Gallarreta
 * Robbie Santos
-* Tony Nguyen 
+* Tony Nguyen
 
 ## MVP:
 
